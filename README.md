@@ -1,11 +1,5 @@
 # 🦖 DIO Dino Game — O Clássico Jogo do Dinossauro do Google Chrome
 
-![HTML5](https://shields.io)
-![CSS3](https://shields.io)
-![JavaScript](https://shields.io)
-![License: MIT](https://shields.io)
-![DIO](https://shields.io)
-
 <div align="center">
   <img src="./example.png" alt="Ilustração do DIO Dino Game em execução" width="750"/>
   <p><em>Tela do jogo em execução: o T-Rex correndo pelo deserto e desviando dos cactos.</em></p>
